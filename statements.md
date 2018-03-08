@@ -9,3 +9,4 @@
 * Following the next major release, ______ now runs on ______
 * ______ driven development
 * According to our style guide, local variables must be prefixed with ______
+* Our standup meeting was interupted by ______
