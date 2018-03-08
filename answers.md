@@ -11,3 +11,6 @@
 * "temporary workarounds"
 * whiteboard interviews
 * an alt-right chat bot
+* moore meetings
+* smart refrigerators
+* stickers
