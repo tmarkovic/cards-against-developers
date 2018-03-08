@@ -8,3 +8,6 @@
 * regular expressions
 * a complete rewrite
 * getting stuck in vim
+* "temporary workarounds"
+* whiteboard interviews
+* a morbid chat bot
