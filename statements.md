@@ -7,4 +7,5 @@
 * Removing node_modules did not resolve the issue but ______ did
 * All new projects must utelize ______ .js?
 * Following the next major release, ______ now runs on ______
-*
+* ______ driven development
+* According to our style guide, local variables must be prefixed with ______
