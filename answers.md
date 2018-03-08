@@ -14,3 +14,5 @@
 * moore meetings
 * smart refrigerators
 * stickers
+* cryptic comments
+* testing in production
