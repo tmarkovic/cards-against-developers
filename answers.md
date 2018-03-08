@@ -10,4 +10,4 @@
 * getting stuck in vim
 * "temporary workarounds"
 * whiteboard interviews
-* a morbid chat bot
+* an alt-right chat bot
