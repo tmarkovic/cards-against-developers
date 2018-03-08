@@ -7,4 +7,4 @@
 * deploying to production on a friday
 * regular expressions
 * a complete rewrite
-
+* getting stuck in vim
