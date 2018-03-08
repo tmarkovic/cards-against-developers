@@ -16,3 +16,5 @@
 * stickers
 * cryptic comments
 * testing in production
+* social engineering
+* explaining what I do to my boss
