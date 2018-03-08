@@ -1,3 +1,3 @@
 # cards-against-developers
 
-##SELECT * FROM ______ WHERE description like '%______%'
+## SELECT * FROM ______ WHERE description like '%______%'
