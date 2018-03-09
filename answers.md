@@ -18,3 +18,5 @@
 * testing in production
 * social engineering
 * explaining what I do to my boss
+* a build bot uprising
+* tabs vs spaces
