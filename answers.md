@@ -21,3 +21,7 @@
 * a build bot uprising
 * tabs vs spaces
 * ten years of git history
+* recovering from git fuckups
+* a new js framework
+* recurssion
+* pesky pixel-pushers
