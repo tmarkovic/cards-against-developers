@@ -12,3 +12,5 @@
 * Our standup meeting was interupted by ______ wielding ______
 * ______ as a service
 * The product owner just called to an emergency meeting about ______
+* Our CIO just accidentally leaked ______
+* We are thinking about open sourcing our ______
