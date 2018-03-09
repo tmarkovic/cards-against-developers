@@ -20,3 +20,4 @@
 * explaining what I do to my boss
 * a build bot uprising
 * tabs vs spaces
+* ten years of git history
