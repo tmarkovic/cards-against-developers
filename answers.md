@@ -25,3 +25,6 @@
 * a new js framework
 * recurssion
 * pesky pixel-pushers
+* a xenophobic AI
+* death by microservices
+* linter errors
