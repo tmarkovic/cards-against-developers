@@ -25,7 +25,7 @@
 * Removing ______ from our front-end stack reduced load times by 50%
 * sudo kill -9 ______
 * //TODO: ______
-* ______ is undefined
+* could not read property ______ of undefined
 * It's like ______ for ______
 * The latest update for ______ fixes ______
 * Our velocity is heavily reduced because of ______
