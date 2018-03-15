@@ -28,3 +28,6 @@
 * ______ is undefined
 * It's like ______ for ______
 * The latest update for ______ fixes ______
+* Our velocity is heavily reduced because of ______
+* We need to increase our ______ automation
+* I'm proud to announce that I've taken on a position as ______ specialist at Microsoft
