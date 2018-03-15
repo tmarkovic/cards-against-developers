@@ -14,3 +14,16 @@
 * The product owner just called to an emergency meeting about ______
 * Our CIO just accidentally leaked ______
 * We are thinking about open sourcing our ______
+* console.log(______)
+* The application crashed because of unhandled exception ______
+* Learn you a ______ for fun and ______
+* wtfs per minute increases with ______
+* Facebook just open sourced ______
+* I built ______, AMA
+* //workaround to fix ______
+* git commit -m "______"
+* Removing ______ from our front-end stack reduced load times by 50%
+* sudo kill -9 ______
+* //TODO: ______
+* ______ is undefined
+* It's like ______ for ______
